@@ -26,6 +26,3 @@
   <img src="https://skillicons.dev/icons?i=postgres" />
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
-
-  
- ![Snake animation](https://github.com/Radjavt/Radjavt/blob/output/github-contribution-grid-snake.svg) 
