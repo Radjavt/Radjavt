@@ -9,6 +9,8 @@
 </div>
 <br>
 
+<img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" min-width="450px (https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif)" max-width="280px" width="280px" align="right">
+   
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java" />
   <img src="https://skillicons.dev/icons?i=py" />
