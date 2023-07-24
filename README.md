@@ -2,13 +2,21 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=D8BFD8&width=435&lines=Ol%C3%A1.;Bem-vindo+ao+meu+perfil!" alt="Typing SVG" /></a>
 </div>
 
+I'm currently studying for a Bachelor's Degree in Information Systems at the Federal Institute of Education, Science and Technology of Sergipe (IFS - Lagarto).
+
+- 🎓 4th period
+- 🌱 I’m currently learning Flutter.
+- ⭐️ Constantly evolving  Full Stack developer
+<hr width="240px">
+
 <div align="center">
   <a href="https://github.com/Radjavt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Radjavt&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radjavt&layout=compact&langs_count=7&theme=radical"/> 
 </div>
 <br>
-   
+  🛠Study technologies   
+<hr width="240px">  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java" />
   <img src="https://skillicons.dev/icons?i=py" />
