@@ -2,6 +2,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=D8BFD8&width=435&lines=Ol%C3%A1.;Bem-vindo+ao+meu+perfil!" alt="Typing SVG" /></a>
 </div>
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Radjavt&color=orange" alt="Profile views" /></p>
+
 I'm currently studying for a Bachelor's Degree in Information Systems at the Federal Institute of Education, Science and Technology of Sergipe (IFS - Lagarto).
 
 - 🎓 4th period
