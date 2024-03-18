@@ -6,7 +6,7 @@
 
 I'm currently studying for a Bachelor's Degree in Information Systems at the Federal Institute of Education, Science and Technology of Sergipe (IFS - Lagarto).
 
-- 🎓 4th period
+- 🎓 5th period
 - 🌱 I’m currently learning Flutter.
 - ⭐️ Constantly evolving  Full Stack developer
 <hr width="240px">
